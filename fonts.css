@@ -20,7 +20,7 @@
 }
 
 @font-face {
-  font-family: "interregular";
+  font-family: "inter";
   src:
     url(./fonts/interregular.ttf) format("ttf"),
     url(./fonts/interregular.woff) format("woff"),
@@ -30,7 +30,7 @@
 }
 
 @font-face {
-  font-family: "interbold";
+  font-family: "inter";
   src:
     url(./fonts/interbold.ttf) format("ttf"),
     url(./fonts/interbold.woff) format("woff"),
